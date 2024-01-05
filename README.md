@@ -1,4 +1,8 @@
 # Employee Payroll System
+
+Link Video:
+[https://telkomuniversityofficial.sharepoint.com/sites/rpl952/Dokumen%20Berbagi/General/Recordings/Meeting%20in%20_General_-20240105_211752-Meeting%20Recording.mp4?web=1](https://telkomuniversityofficial.sharepoint.com/sites/rpl952/Dokumen%20Berbagi/General/Recordings/Meeting%20in%20_General_-20240105_211752-Meeting%20Recording.mp4?web=1)
+
 Collaborator:
 1. Gerald Shabran Rasyad    (GShabran30)
 2. Made Rido Paramartha     (ridomade)

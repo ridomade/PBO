@@ -80,7 +80,7 @@ public class payment extends javax.swing.JFrame {
 
 
         Map<String, String> employeeCardData = cConfig.getCardDataById(employeeId);
-        String cardName = employeeCardData.get("card_holder_name");
+        String cardName = employeeCardData.get("card_name");
         field_cardName.setText(cardName != null ? cardName : "");
 
         // Set nilai pada JTextField field_cardNumber

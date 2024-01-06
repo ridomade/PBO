@@ -57,7 +57,7 @@ public class editEmployeeData extends javax.swing.JFrame {
             String name = employeeAccountData.get("name");
             field_name.setText(name != null ? name : "");
             Map<String, String> employeeCardData = cConfig.getCardDataById(employeeId);
-            String cardName = employeeCardData.get("card_holder_name");
+            String cardName = employeeCardData.get("card_name");
             field_cardName.setText(cardName != null ? cardName : "");
 
             // Set nilai pada JTextField field_cardNumber
